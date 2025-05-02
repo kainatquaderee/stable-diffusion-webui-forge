@@ -208,6 +208,9 @@ class FreeUForForge(scripts.Script):
 
 See also [Forge's Unet Implementation](https://github.com/lllyasviel/stable-diffusion-webui-forge/blob/main/backend/nn/unet.py).
 
+# For linux user:
+Use conda and python 3.10. No tutorial so far
+
 # Under Construction
 
 WebUI Forge is now under some constructions, and docs / UI / functionality may change with updates.
